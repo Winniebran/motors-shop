@@ -48,7 +48,7 @@ O projeto utiliza as seguintes tecnologias e bibliotecas:
 ## Deploy
 
 - ### <b>Front end</b>
-  https://motors-shop-git-developer-motors-shop-deploy.vercel.app/
+  https://motors-shop-2.vercel.app/
 - ### <b>Back end</b>
   https://motors-api-deploy.onrender.com/
 
