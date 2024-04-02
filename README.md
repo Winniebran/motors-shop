@@ -48,9 +48,9 @@ O projeto utiliza as seguintes tecnologias e bibliotecas:
 ## Deploy
 
 - ### <b>Front end</b>
-  https://motors-shop-2.vercel.app/
+  motors-shop-front-j2nug1i7q-winniebrans-projects.vercel.app
 - ### <b>Back end</b>
-  https://motors-api-deploy.onrender.com/
+  https://motors-shop-pfrl.onrender.com
 
 <br>
 
